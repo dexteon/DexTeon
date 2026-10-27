@@ -28,7 +28,7 @@ Python, PowerShell, TypeScript, JavaScript, Google Apps Script, Ollama, Docker, 
 
 ## Contact
 
-- Email: the contact form at cyberautomations.com
+- Email: support@cyberautomations.com
 - Site: [cyberautomations.com](https://cyberautomations.com)
 
 
